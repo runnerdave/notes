@@ -17,6 +17,10 @@ http://seleniumhq.github.io/selenium/docs/api/javascript/module/selenium-webdriv
 * https://www.protractortest.org/#/api
 * http://www.protractortest.org/#/tutorial
 
+#### accessing the angular scope with protractor
+* https://stackoverflow.com/questions/20619225/accessing-angular-inside-protractor-test/20620056#20620056
+* https://stackoverflow.com/questions/31533299/how-to-execute-angular-element-scope-in-protractor/31540742#31540742
+
 ### async await protractor
 * http://www.protractortest.org/#/async-await
 
