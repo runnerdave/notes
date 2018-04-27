@@ -13,6 +13,9 @@
 ### selenium api
 http://seleniumhq.github.io/selenium/docs/api/javascript/module/selenium-webdriver/
 
+### cuke farm
+https://github.com/ReadyTalk/cukefarm
+
 ### protractor api and official tutorial
 * https://www.protractortest.org/#/api
 * http://www.protractortest.org/#/tutorial
